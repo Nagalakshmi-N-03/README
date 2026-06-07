@@ -1,11 +1,11 @@
 <!-- Header Banner -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=200&section=header&text=Nagalakshmi%20N&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20%7C%20Python%20%7C%20SQL%20%7C%20dbt%20%7C%20Airflow&descAlignY=58&descSize=16&descColor=aaaaaa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=200&section=header&text=Nagalakshmi%20N&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Data%20Engineering&descAlignY=58&descSize=16&descColor=aaaaaa" />
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Building+pipelines+that+actually+scale.;Raw+data+in.+Clean+models+out.;Airflow+%E2%86%92+dbt+%E2%86%92+Prophet+%E2%86%92+Dashboard.;IBM+Hackathon+Winner+%F0%9F%8F%86;Open+to+Data+Engineer+%2F+Analytics+Engineer+roles." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions.;Python+%7C+SQL+%7C+Power+BI+%7C+dbt+%7C+Airflow.;Building+pipelines+that+actually+scale.;IBM+Hackathon+Winner+%F0%9F%8F%86;Open+to+Data+Analyst+%2F+Data+Engineer+roles." />
 </div>
 
 <br/>
@@ -24,51 +24,62 @@
 ## 👩‍💻 Professional Summary
 
 ```
-B.Tech · Data Science Specialization · Kalasalingam Academy of Research and Education
-Internships  →  Elevate Labs  |  Excelerate (current)
+B.Tech · CSE — Data Science Specialization · Kalasalingam Academy of Research and Education
+Internships  →  Elevate Labs (Data Analyst)  |  Excelerate (Data Analyst · current)
 Achievement  →  IBM Hackathon Winner 🏆
-Target Roles →  Data Engineer · Analytics Engineer · Junior Data Engineer
+Target Roles →  Data Analyst · Data Engineer · Analytics Engineer
 ```
 
-I build end-to-end data pipelines — from raw ingestion to clean analytical models to live dashboards.
-My stack spans Airflow orchestration, dbt transformations, PostgreSQL, Docker, and Streamlit.
-I also have full-stack experience (FastAPI + React) so I can build tooling *around* the data, not just the pipeline.
+I analyze data, build pipelines, and turn numbers into decisions people can actually use.
+My work spans SQL querying, Python-based ETL, Power BI dashboards, dbt transformations,
+and Airflow orchestration — from raw ingestion all the way to a live dashboard on top.
 
 ---
 
 ## 🛠️ Skills
 
-**Data Engineering**
+**Data Engineering & Databases**
 
-[![Airflow](https://skillicons.dev/icons?i=airflow)](https://airflow.apache.org)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+<p>
+  <a href="https://airflow.apache.org" title="Apache Airflow"><img src="https://skillicons.dev/icons?i=airflow" width="45" height="45" alt="Apache Airflow" /></a>
+  <a href="https://docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" /></a>
+  <a href="https://postgresql.org" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" /></a>
+  <a href="https://mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" /></a>
+  <a href="https://supabase.com" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase" /></a>
+  <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" /></a>
+  <a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" /></a>
+  <a href="https://linux.org" title="Linux"><img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" /></a>
+</p>
 
-**Languages & ML**
+**Languages & Data Science**
 
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
-[![Sklearn](https://skillicons.dev/icons?i=sklearn)](https://scikit-learn.org)
+<p>
+  <a href="https://python.org" title="Python"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" /></a>
+  <a href="https://tensorflow.org" title="TensorFlow"><img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="TensorFlow" /></a>
+  <a href="https://scikit-learn.org" title="Scikit-Learn"><img src="https://skillicons.dev/icons?i=sklearn" width="45" height="45" alt="Scikit-Learn" /></a>
+  <a href="https://numpy.org" title="NumPy"><img src="https://skillicons.dev/icons?i=numpy" width="45" height="45" alt="NumPy" /></a>
+  <a href="https://matplotlib.org" title="Matplotlib"><img src="https://skillicons.dev/icons?i=matplotlib" width="45" height="45" alt="Matplotlib" /></a>
+</p>
 
-**Full Stack**
+**Full Stack & APIs**
 
-[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
-[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com)
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
-[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://javascript.com)
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+<p>
+  <a href="https://fastapi.tiangolo.com" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" /></a>
+  <a href="https://flask.palletsprojects.com" title="Flask"><img src="https://skillicons.dev/icons?i=flask" width="45" height="45" alt="Flask" /></a>
+  <a href="https://react.dev" title="React"><img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" /></a>
+  <a href="https://tailwindcss.com" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" /></a>
+  <a href="https://javascript.com" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" /></a>
+</p>
 
-**Tools & Cloud**
+**Tools**
 
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-[![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com)
-[![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
-[![Postman](https://skillicons.dev/icons?i=postman)](https://postman.com)
+<p>
+  <a href="https://code.visualstudio.com" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code" /></a>
+  <a href="https://postman.com" title="Postman"><img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" /></a>
+  <a href="https://vercel.com" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel" /></a>
+</p>
 
 ---
 
@@ -79,19 +90,10 @@ I also have full-stack experience (FastAPI + React) so I can build tooling *arou
 <td width="50%" valign="top">
 
 ### 🌊 [OrderWave](https://github.com/Nagalakshmi-N-03/OrderWave)
-> Production-grade e-commerce data platform
 
-```
-CSV → PostgreSQL
-    → Airflow DAG (daily 6am)
-    → dbt (staging + star schema)
-    → Prophet 30-day forecast
-    → Low-stock email alerts
-    → Streamlit dashboard ↗
-```
+A fully automated data platform that simulates the backend of an e-commerce company like Flipkart or Nykaa. It ingests order, product, and inventory data daily, cleans and models it using dbt into a star schema, predicts the next 30 days of product demand using Prophet, triggers email alerts when stock runs low, and serves everything on a live Streamlit dashboard connected to Supabase.
 
-`Docker` · `Airflow 2.8` · `dbt 1.7`
-`PostgreSQL` · `Supabase` · `Streamlit`
+`Docker` · `Airflow 2.8` · `dbt 1.7` · `PostgreSQL` · `Supabase` · `Prophet` · `Streamlit`
 
 [![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://nagalakshmi-n-03-orderwave-dashboardapp-4y9yyo.streamlit.app)
 
@@ -99,19 +101,10 @@ CSV → PostgreSQL
 <td width="50%" valign="top">
 
 ### ⚡ [OrBit](https://github.com/Nagalakshmi-N-03/OrBit)
-> AI app blueprint generator
 
-```
-Prompt
-  → Intent Extraction
-  → System Design
-  → Schema Gen (UI/API/DB/Auth)
-  → Validation + Auto-Repair
-  → Blueprint JSON ✓
-```
+An AI tool that takes a plain-English description of any app and generates a complete, validated technical blueprint — every page, every API endpoint, every database table, and every user permission rule — all consistent with each other. It runs through 4 AI stages, catches its own mistakes, and repairs only the broken parts without regenerating everything. Deployed live on Railway and Vercel.
 
-`FastAPI` · `Groq llama-3.3-70b` · `Pydantic v2`
-`React` · `Railway` · `Vercel`
+`FastAPI` · `Groq llama-3.3-70b` · `Pydantic v2` · `React` · `Railway` · `Vercel`
 
 [![Live App](https://img.shields.io/badge/Live%20App-000000?style=flat-square&logo=vercel&logoColor=white)](https://or-bit.vercel.app)
 [![API Docs](https://img.shields.io/badge/API%20Docs-005571?style=flat-square&logo=fastapi&logoColor=white)](https://orbit-production-f7f5.up.railway.app/docs)
@@ -122,7 +115,8 @@ Prompt
 <td width="50%" valign="top">
 
 ### 📦 [CargoOpt](https://github.com/Nagalakshmi-N-03/CargoOpt)
-> Cargo logistics optimization — route & load planning
+
+A logistics web app that helps plan and optimize cargo loads and routes. The backend handles the optimization logic in Python/Flask and the frontend gives operators a clean interface to manage shipments.
 
 `Flask` · `React` · `Vite` · `Python`
 
@@ -130,9 +124,10 @@ Prompt
 <td width="50%" valign="top">
 
 ### 🔧 [FixFlow](https://github.com/Nagalakshmi-N-03/FixFlow)
-> Maintenance workflow manager — admin & user request tracking
 
-`Python` · `Role-based access` · `Workflow engine`
+A maintenance request management system with separate admin and user roles. Users raise requests, admins track and resolve them — the whole workflow managed in Python with role-based access control.
+
+`Python` · `Role-based Access` · `Workflow Engine`
 
 </td>
 </tr>
@@ -142,26 +137,26 @@ Prompt
 
 ## 💼 Experience
 
-| Role | Company | Period |
+| Role | Company | Status |
 |------|---------|--------|
-| Data Engineering Intern | Excelerate | Current |
-| Intern | Elevate Labs | Previous |
+| Data Analyst Intern | Excelerate | Current |
+| Data Analyst Intern | Elevate Labs | Completed |
 
 ---
 
 ## 🎓 Education
 
-| Degree | Specialization | Institution |
-|--------|---------------|-------------|
-| B.Tech | Data Science | Kalasalingam Academy of Research and Education (KARE) |
+| Degree | Branch | Institution |
+|--------|--------|-------------|
+| B.Tech | CSE — Data Science | Kalasalingam Academy of Research and Education (KARE) |
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements
 
 - 🥇 **IBM Hackathon Winner**
-- 📊 Data Science & ML coursework — Python, SQL, ETL pipelines, Power BI
-- 🔁 Built production pipelines with Airflow + dbt + Prophet from scratch
+- 🔁 Built a full production data pipeline (Airflow + dbt + Prophet) from scratch
+- 📊 Hands-on with end-to-end analytics: ingestion → transformation → forecasting → dashboard
 
 ---
 

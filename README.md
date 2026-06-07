@@ -1,11 +1,11 @@
 <!-- Header Banner -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=200&section=header&text=Nagalakshmi%20N&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20Data%20Engineering&descAlignY=58&descSize=16&descColor=aaaaaa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=200&section=header&text=Nagalakshmi%20N&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Python%20%7C%20SQL%20%7C%20Power%20BI%20%7C%20dbt%20%7C%20Airflow%20%7C%20Data%20Engineering&descAlignY=58&descSize=16&descColor=aaaaaa" />
 </div>
 
 <!-- Typing Animation -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions.;Python+%7C+SQL+%7C+Power+BI+%7C+dbt+%7C+Airflow.;Building+pipelines+that+actually+scale.;IBM+Hackathon+Winner+%F0%9F%8F%86;Open+to+Data+Analyst+%2F+Data+Engineer+roles." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Python+%7C+SQL+%7C+Power+BI+%7C+dbt+%7C+Airflow.;Building+pipelines+that+actually+scale.;From+raw+data+to+live+dashboards.;IBM+Hackathon+Winner+%F0%9F%8F%86" />
 </div>
 
 <br/>
@@ -25,12 +25,11 @@
 
 ```
 B.Tech · CSE — Data Science Specialization · Kalasalingam Academy of Research and Education
-Internships  →  Elevate Labs (Data Analyst)  |  Excelerate (Data Analyst · current)
+Internships  →  Elevate Labs  |  Excelerate (current)
 Achievement  →  IBM Hackathon Winner 🏆
-Target Roles →  Data Analyst · Data Engineer · Analytics Engineer
 ```
 
-I analyze data, build pipelines, and turn numbers into decisions people can actually use.
+I build end-to-end data pipelines and turn raw data into insights people can actually use.
 My work spans SQL querying, Python-based ETL, Power BI dashboards, dbt transformations,
 and Airflow orchestration — from raw ingestion all the way to a live dashboard on top.
 
@@ -38,27 +37,42 @@ and Airflow orchestration — from raw ingestion all the way to a live dashboard
 
 ## 🛠️ Skills
 
-**Data Engineering & Databases**
+**AI & Machine Learning**
+
+<p>
+  <a href="https://tensorflow.org" title="TensorFlow"><img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="TensorFlow" /></a>
+  <a href="https://pytorch.org" title="PyTorch"><img src="https://skillicons.dev/icons?i=pytorch" width="45" height="45" alt="PyTorch" /></a>
+  <a href="https://scikit-learn.org" title="Scikit-Learn"><img src="https://skillicons.dev/icons?i=sklearn" width="45" height="45" alt="Scikit-Learn" /></a>
+  <a href="https://numpy.org" title="NumPy"><img src="https://skillicons.dev/icons?i=numpy" width="45" height="45" alt="NumPy" /></a>
+  <a href="https://matplotlib.org" title="Matplotlib"><img src="https://skillicons.dev/icons?i=matplotlib" width="45" height="45" alt="Matplotlib" /></a>
+</p>
+
+**Languages & Analytics**
+
+<p>
+  <a href="https://python.org" title="Python"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" /></a>
+  <a href="https://mysql.com" title="SQL / MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="SQL / MySQL" /></a>
+  <a href="https://postgresql.org" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" /></a>
+</p>
+
+**Data Engineering & Processing**
 
 <p>
   <a href="https://airflow.apache.org" title="Apache Airflow"><img src="https://skillicons.dev/icons?i=airflow" width="45" height="45" alt="Apache Airflow" /></a>
   <a href="https://docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" /></a>
-  <a href="https://postgresql.org" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" /></a>
-  <a href="https://mysql.com" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" /></a>
   <a href="https://supabase.com" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="Supabase" /></a>
-  <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" /></a>
-  <a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" /></a>
   <a href="https://linux.org" title="Linux"><img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" /></a>
 </p>
 
-**Languages & Data Science**
+**Cloud & Developer Tools**
 
 <p>
-  <a href="https://python.org" title="Python"><img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" /></a>
-  <a href="https://tensorflow.org" title="TensorFlow"><img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="TensorFlow" /></a>
-  <a href="https://scikit-learn.org" title="Scikit-Learn"><img src="https://skillicons.dev/icons?i=sklearn" width="45" height="45" alt="Scikit-Learn" /></a>
-  <a href="https://numpy.org" title="NumPy"><img src="https://skillicons.dev/icons?i=numpy" width="45" height="45" alt="NumPy" /></a>
-  <a href="https://matplotlib.org" title="Matplotlib"><img src="https://skillicons.dev/icons?i=matplotlib" width="45" height="45" alt="Matplotlib" /></a>
+  <a href="https://aws.amazon.com" title="AWS"><img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS" /></a>
+  <a href="https://github.com" title="GitHub"><img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" /></a>
+  <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" /></a>
+  <a href="https://code.visualstudio.com" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code" /></a>
+  <a href="https://postman.com" title="Postman"><img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" /></a>
+  <a href="https://vercel.com" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel" /></a>
 </p>
 
 **Full Stack & APIs**
@@ -66,19 +80,20 @@ and Airflow orchestration — from raw ingestion all the way to a live dashboard
 <p>
   <a href="https://fastapi.tiangolo.com" title="FastAPI"><img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" /></a>
   <a href="https://flask.palletsprojects.com" title="Flask"><img src="https://skillicons.dev/icons?i=flask" width="45" height="45" alt="Flask" /></a>
+  <a href="https://streamlit.io" title="Streamlit"><img src="https://skillicons.dev/icons?i=streamlit" width="45" height="45" alt="Streamlit" /></a>
   <a href="https://react.dev" title="React"><img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" /></a>
+  <a href="https://nextjs.org" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" /></a>
   <a href="https://tailwindcss.com" title="Tailwind CSS"><img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" /></a>
   <a href="https://javascript.com" title="JavaScript"><img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" /></a>
 </p>
 
-**Tools**
+**Visualization**
 
 <p>
-  <a href="https://code.visualstudio.com" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code" /></a>
-  <a href="https://postman.com" title="Postman"><img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" /></a>
-  <a href="https://vercel.com" title="Vercel"><img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Vercel" /></a>
+  <a href="https://powerbi.microsoft.com" title="Power BI"><img src="https://skillicons.dev/icons?i=powerbi" width="45" height="45" alt="Power BI" /></a>
+  <a href="https://tableau.com" title="Tableau"><img src="https://skillicons.dev/icons?i=tableau" width="45" height="45" alt="Tableau" /></a>
 </p>
 
 ---
@@ -139,8 +154,8 @@ A maintenance request management system with separate admin and user roles. User
 
 | Role | Company | Status |
 |------|---------|--------|
-| Data Analyst Intern | Excelerate | Current |
-| Data Analyst Intern | Elevate Labs | Completed |
+| Intern | Excelerate | Current |
+| Intern | Elevate Labs | Completed |
 
 ---
 
@@ -156,7 +171,7 @@ A maintenance request management system with separate admin and user roles. User
 
 - 🥇 **IBM Hackathon Winner**
 - 🔁 Built a full production data pipeline (Airflow + dbt + Prophet) from scratch
-- 📊 Hands-on with end-to-end analytics: ingestion → transformation → forecasting → dashboard
+- 📊 End-to-end: ingestion → transformation → forecasting → live dashboard
 
 ---
 
